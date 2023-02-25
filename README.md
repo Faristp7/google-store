@@ -1,2 +1,2 @@
 # google-store
-Site preview
+Site preview https://faristp7.github.io/google-store/
